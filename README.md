@@ -8,7 +8,8 @@ Leaflet.js: A popular open-source JavaScript library for creating interactive ma
 D3.js: A JavaScript library for manipulating documents based on data.
 GeoJSON: A format for encoding geographic data structures.
 JavaScript: A programming language used to create interactive web pages.
-What I Learned:
+
+# What I Learned:
 
 Through this project, I gained experience with using Leaflet.js to create web maps. I learned how to import and visualize GeoJSON data using Leaflet.js, how to create different types of map layers and markers, and how to add interactivity to the map through popups and legends. I also learned how to use D3.js to manipulate data and create color scales based on the depth of the earthquakes.
 
